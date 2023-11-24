@@ -1,0 +1,6 @@
+CSCE662-2023-MP3.pdf
+venv
+mapreduce/build/*
+mapreduce/data/*
+lib
+.vscode
